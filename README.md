@@ -1,15 +1,15 @@
-Bike Sales Analysis — 2024 Performance Dashboard
+**Bike Sales Analysis — 2024 Performance Dashboard**
 
 Analyzing a year of bike sales data to identify which products, 
 regions, and reps actually drive revenue and profit — built as an Excel dashboard with KPI cards, 
 breakdown tables, and charts.
 
-Business Problem
+**Business Problem**
 A bike retailer sold across 4 regions and 7 product lines throughout 2024, 
 but had no consolidated view of performance. Leadership wanted answers to three questions: 
 Which product categories are worth doubling down on? Which regions and reps are outperforming? Is there a seasonal pattern worth planning around?
 
-Dataset
+**Dataset**
 221 orders from Jan 2024 – Dec 2024
 Fields: Order ID, Date, Region, Salesperson, Bike Model, Category, Units Sold, Unit Price, Total Revenue, Cost Per Unit, Total Cost, Profit
 4 regions (East, North, South, West) · 5 salespeople · 7 bike models across 6 categories
